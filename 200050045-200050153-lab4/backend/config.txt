@@ -1,0 +1,5 @@
+postgres
+sasank
+localhost
+5432
+lab5db
